@@ -1,0 +1,15 @@
+ size(200,200);
+  background(200,800,100);
+  circle(60,60,60);
+  circle(45,45,45);
+  fill(0,0,200);
+  circle(35,35,35);
+  fill(0,0,200);
+  triangle(100,100,150,100,125,150); 
+  line(0,100,100,0);
+  line(200,200,0,0);
+  fill(250,0,0);
+  text("MARTINA.F",120,50);
+  line(50,0,0,50);
+  fill(250,0,0);
+  text("Tecnologia Multimedial 1",10,175);
